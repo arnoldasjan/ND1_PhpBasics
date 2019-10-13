@@ -1,0 +1,21 @@
+{
+    "name": "arnoldasjanuska/nd1_backend",
+    "authors": [
+        {
+            "name": "arnoldasjan",
+            "email": "arnuske@yahoo.com"
+        }
+    ],
+    "require": {
+        "squizlabs/php_codesniffer": "^3.5",
+        "codedungeon/php-cli-colors": "^1.10"
+    },
+    "autoload": {
+        "files": [
+            "Root.php",
+            "Nfq/Akademija/NotTyped.php",
+            "Nfq/Akademija/Soft.php",
+            "Nfq/Akademija/Strict.php"
+        ]
+    }
+}
